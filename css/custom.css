@@ -1,0 +1,18 @@
+.enigma_home_portfolio_showcase img{width: 260px !important;height: 160px !important;}
+#pagination,.custom-pagination{    display: inline-block;
+                       width: 100%;
+                       text-align: center;
+                       font-size: 15px;}
+.profile h4{margin-bottom: 10px !important;}
+.profile tr td.label{    line-height: 25px;
+                         display: inline-block;
+                         color: black;}
+#buddypress table.profile-fields tr td.label, #buddypress table.wp-profile-fields tr td.label { 
+    width: 60%;
+    text-align: left;
+}
+#pagination li{list-style-type: none;display: inline-block;}
+#pagination ul.page-numbers{display: inline-block;padding-left: 10px;}
+#pagination ul li span{text-decoration: underline;}
+.line .enigma_home_portfolio_caption{background-color: red;}
+.line .enigma_home_portfolio_caption h3,.line .enigma_home_portfolio_caption h3 a{color: white;}
